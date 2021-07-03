@@ -1,0 +1,14 @@
+click
+python-dotenv
+requests
+cryptography
+PyJWT
+pexpect
+pandas
+numpy
+selenium
+websocket-client
+
+kiteconnect
+upstox
+
