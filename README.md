@@ -1,4 +1,4 @@
-# Cli application for Kite Connect API
+# Cli application for Stock Broker Connect API
 
 ## User setup
 
