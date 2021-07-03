@@ -1,0 +1,8 @@
+pytest==5.0.0
+mock==3.0.5
+pep8==1.7.1
+flake8==3.7.7
+coverage==4.5.3
+pylint==2.3.1
+bandit==1.6.2
+pytest-cov==2.5.1
